@@ -1,0 +1,2 @@
+# Wrapped SNAFU
+This smart contract was deployed on Gnosis chain: [0x1BFb3FbCf1ce331B7AAE03a3c0Bf3AcF685F4bD6](https://blockscout.com/xdai/mainnet/token/0x1BFb3FbCf1ce331B7AAE03a3c0Bf3AcF685F4bD6/token-holders) to be used as a converted from erc1155 to erc721
